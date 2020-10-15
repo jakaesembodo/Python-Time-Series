@@ -4,5 +4,6 @@ Summary of python time series learning from Udemy (Pierian Data). Thanks for IBM
 Learning logs: 
 
 - 9 Oct 2020 (start learning)
-- 11 oct 2020 (git repo, numpy)
-- 12 oct 2020 (pandas: series, dataframe, operation, input output etc)
+- 12 oct 2020 (git repo, numpy)
+- 13 oct 2020 (pandas: series, dataframe, operation, input output etc)
+- 14 oct 2020 (learn data visualization with pandas, also learn time series with pandas)
