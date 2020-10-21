@@ -8,3 +8,4 @@ Learning logs:
 - 13 oct 2020 (pandas: series, dataframe, operation, input output etc)
 - 14 oct 2020 (learn data visualization with pandas, also learn time series with pandas)
 - 15 oct 2020 (learn HR filter, ETS decomposition, and Simple Moving Average)
+- 21 oct 2020 (learn Exponential Moving Average, and Holt Winter = simple, double and triple EMA)
